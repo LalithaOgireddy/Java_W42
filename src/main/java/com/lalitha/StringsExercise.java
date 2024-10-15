@@ -1,6 +1,6 @@
 package com.lalitha;
 
-public class LexEx {
+public class StringsExercise {
     public static void main(String[] args) {
         //Length of string "Java"
         String str = "Java";
